@@ -1,3 +1,7 @@
+---
+title: Index
+---
+This is the content of the site:
 <ul>
   {% for post in site.posts %}
     <li>

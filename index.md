@@ -1,5 +1,6 @@
 ---
-title: Index
+title: Home
+layout: default
 ---
 This is the content of the site:
 <ul>
